@@ -16,3 +16,4 @@ taskdescription varchar(30) NOT NULL,PRIMARY KEY (id)) ENGINE=InnoDB AUTO_INCREM
 10. run the driver command : go get -u github.com/go-sql-driver/mysql
 11. Change DB Connection in main.go page
 12. run the application by using command : go run main.go
+13. Application URL # http://localhost:8980/
