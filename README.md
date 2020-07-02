@@ -1,4 +1,4 @@
-# GOLANGTODO
+# GOLANGTODO With MySql
 Go Lang TODO App
 
 Steps : 
